@@ -1,0 +1,30 @@
+<acceptance-test-run title="Should be able to view" name="shouldBeAbleToView" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="16562" timestamp="2018-02-27T16:44:00.607+07:00" session-id="578a676c8303a6d7428ff6d4b6eedede">
+  <user-story id="serenitybdd.test.beginner.start.StartBeginnerBDD" name="Start beginner BDD" path="serenitybdd.test.beginner.start"/>
+  <tags>
+    <tag name="Start beginner BDD" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="12793">
+    <screenshots>
+      <screenshot image="be5eecc709236027f95bc16a1b57a7d6.png"/>
+    </screenshots>
+    <description>boy opens the Angular js index page</description>
+  </test-step>
+  <test-group name="boy search #element on angularJS page." result="SUCCESS">
+    <screenshots>
+      <screenshot image="b4ec2262242e8aaca22a7da8b31e94f9.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="1181">
+      <screenshots>
+        <screenshot image="b4ec2262242e8aaca22a7da8b31e94f9.png"/>
+      </screenshots>
+      <description>boy enters &apos;Niwes Tipboonchu&apos; into #element</description>
+    </test-step>
+  </test-group>
+  <test-step result="SUCCESS" duration="607">
+    <screenshots>
+      <screenshot image="6ddf7eb8984b266318e99145f328d646.png"/>
+      <screenshot image="b4ec2262242e8aaca22a7da8b31e94f9.png"/>
+    </screenshots>
+    <description>Then page title question should be a string containing &apos;AngularJS &amp;mdash; Superheroic JavaScript MVW Framework&apos;</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,79 @@
+<acceptance-test-run title="Start test serenity BDD report beginner" name="startTestSerenityBDDReportBeginner" steps="12" successful="12" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="43400" timestamp="2018-02-27T13:29:17.049+07:00" session-id="2a2859da1dfee3095fdc9d14f858751e">
+  <user-story id="testing.serenity.dynamic.concept.start.StartBeginnerBDDBeginner" name="Start beginner BDD beginner" path="testing.serenity.dynamic.concept.start"/>
+  <tags>
+    <tag name="Start beginner BDD beginner" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="2060">
+    <screenshots>
+      <screenshot image="064db846a28f9ce5336cb677b9a21297.png"/>
+      <screenshot image="87aeacf4a6fdb02244031101a34de367.png"/>
+    </screenshots>
+    <description>Is open browser by URL: &lt;span class=&apos;step-parameter&apos;&gt;http://excoss.localdomain:7777/sta-oss-e/service/index.xhtml&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="656">
+    <screenshots>
+      <screenshot image="727fd6d6e1d0e03ea31ff798e1ddf05d.png"/>
+    </screenshots>
+    <description>Is input data at xpath: &lt;span class=&apos;step-parameter&apos;&gt;//*[@id=&apos;username&apos;], &lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="654">
+    <screenshots>
+      <screenshot image="56c21667e82a024bcdd293278515568a.png"/>
+    </screenshots>
+    <description>Is input data at xpath: &lt;span class=&apos;step-parameter&apos;&gt;//*[@id=&apos;password&apos;], 12345&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="5677">
+    <screenshots>
+      <screenshot image="e59dfd76dfc14298d1155d89aa7790f5.png"/>
+    </screenshots>
+    <description>Is click button at xpath: &lt;span class=&apos;step-parameter&apos;&gt;//*[@id=&apos;loginButton&apos;]&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="11150">
+    <screenshots>
+      <screenshot image="22d37e59fd041356ad8844e7bddc4a90.png"/>
+    </screenshots>
+    <description>Verify text on page: &lt;span class=&apos;step-parameter&apos;&gt;กรุณาระบุ user name ก่อนทำการ Logins&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1742">
+    <screenshots>
+      <screenshot image="e59dfd76dfc14298d1155d89aa7790f5.png"/>
+    </screenshots>
+    <description>Browser close</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="6589">
+    <screenshots>
+      <screenshot image="1ffacd5af56f21811fdfee159555982f.png"/>
+    </screenshots>
+    <description>Is open browser by URL: &lt;span class=&apos;step-parameter&apos;&gt;http://excoss.localdomain:7777/sta-oss-e/service/index.xhtml&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="705">
+    <screenshots>
+      <screenshot image="80a8e88595c7b1d8a33fb0c61a7b4ab3.png"/>
+    </screenshots>
+    <description>Is input data at xpath: &lt;span class=&apos;step-parameter&apos;&gt;//*[@id=&apos;username&apos;], thanathep@summitthai.com&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="628">
+    <screenshots>
+      <screenshot image="b9387c6f6134215b4a588c3000b016b8.png"/>
+    </screenshots>
+    <description>Is input data at xpath: &lt;span class=&apos;step-parameter&apos;&gt;//*[@id=&apos;password&apos;], &lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="5638">
+    <screenshots>
+      <screenshot image="0e1e5bc19bbf20a544ca9ae402992c02.png"/>
+    </screenshots>
+    <description>Is click button at xpath: &lt;span class=&apos;step-parameter&apos;&gt;//*[@id=&apos;loginButton&apos;]&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="571">
+    <screenshots>
+      <screenshot image="f557dc96b7180e124fe4cb3bda245446.png"/>
+    </screenshots>
+    <description>Verify title text: &lt;span class=&apos;step-parameter&apos;&gt;Login Form&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1291">
+    <screenshots>
+      <screenshot image="0e1e5bc19bbf20a544ca9ae402992c02.png"/>
+    </screenshots>
+    <description>Browser close</description>
+  </test-step>
+</acceptance-test-run>
